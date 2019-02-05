@@ -3,7 +3,7 @@ It's is a educational project.something went to cool with you.I have basic ally 
 Here you will find all the details of atom .you have to write here just the symbol of atom...Then you can find all .. it's really easy to use.
 # Educational value 
 Many of us use Android phone Now a days they can use it for educational purpose
-usages of my program::::
+# installation process..
 # for Ubuntu and other  Linux distro
 firstof all 
 install python3.
@@ -33,7 +33,7 @@ $chmod +x *
 $python3 ptable.py
 input 6 to exit the program
 
- thanks all 
- # Ariful Anik
+# thanks all,have a nice day 
+ # Ariful Anik,
 
 
