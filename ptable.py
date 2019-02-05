@@ -737,7 +737,7 @@ sleep(0.1)
 print('		  ┃┗━┓┃┗┛┃┃┃┃┗┛┃  ')
 sleep(0.01)
 print('		  ┗━━┛┗━━┛┗┛┗━━┛  ')
-print(c_c("  ________________from :PLSCR","red","bold=True"))
+print(c_c("  ________________from 4N!k","red","bold=True"))
 sleep(1.5)
 print("\n\n")
 
