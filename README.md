@@ -8,7 +8,7 @@ Many of us use Android phone Now a days they can use it for educational purpose
 firstof all 
 install python3.
 After that goto terminal and command
-$ git clone http://www.github.com/4riful
+$ git clone https://github.com/4riful/Periodic-table.git
 after cloning that ,,,,
 $cd periodic-table
 $ls
@@ -25,7 +25,7 @@ $apt upgrade
 $apt install python
 $apt install git
 
-$ git clone http://www.github.com/4riful
+$ git clone https://github.com/4riful/Periodic-table.git
 after cloning that ,,,,
 $cd periodic-table
 $ls
@@ -35,5 +35,10 @@ input 6 to exit the program
 
 # thanks all,have a nice day 
  # Ariful Anik,
-
-
+ # PLSCR,
+ # ADD :DEBIGONJ,PACHAGARH
+ 
+ # For contacting with me
+ # Fb : https://www.facebook.com/4rifulanik
+# cellphone:+880 1704392442
+# gmail :4rifulanik@gmail.com
