@@ -1,6 +1,7 @@
 ﻿#AUTHOR :_ARiful 4N!k;
 #usr/bin/python3! 
 #purpose :Education _Date:06\12\18;
+#first educational code of mine 
 #Relase : hope Thirty _1st.
 # Ver:0.1
 #____starting code__
@@ -12,7 +13,7 @@
 
 
 
-
+#function defining of electron conf.
 
 
 
@@ -21,12 +22,12 @@ def ec(a):
 	print('\t|\t 🌀 Eclectronic Configuration🌀     |')
 	sleep(1)
 	print('\t+-------------------------------------------+')
-	print(f"\n\n\n\tElectronic Eonfigration of this atom is--->> {a}")
+	print(f"\n\n\n\tElectronic Eonfigration of this atom is--->> {a}")# 'a'will thee parameter of atom
 
 
 
 
-
+#defnining function for atom info;;;;
 def ptb(a,b,c,d,e,f,g,h,i,j,k,l,m):
 	print('\n')
 	print("\t+-------------------------------------------+")
@@ -85,7 +86,7 @@ def ptb(a,b,c,d,e,f,g,h,i,j,k,l,m):
 
 
 
-
+####################usr input #################
 
 
 
