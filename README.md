@@ -1,12 +1,17 @@
 # Periodic-table
-It's is a educational project.something went to cool with you.I have basic ally make it for student.it's smart periodic table .here i have included all details according to iupac (2018).
+It's is a educational project.
+
+Something went to cool with you.I have basically make it for student.it's smart periodic table .Here i have included all details according to iupac (2018).
 Here you will find all the details of atom .you have to write here just the symbol of atom...Then you can find all .. it's really easy to use.
+
 # Educational value 
-Many of us use Android phone Now a days they can use it for educational purpose
+Now a days ,Many of us use Android phone . They can use it for educational purpose.I think it will save time.
+
+
 # installation process..
 # for Ubuntu and other  Linux distro
-firstof all 
-install python3.
+First of all 
+install python3!.
 After that goto terminal and command
 $ git clone https://github.com/4riful/Periodic-table.git
 after cloning that ,,,,
