@@ -47,5 +47,5 @@ input 6 to exit the program
  
  # For contacting with me
  # Fb : https://www.facebook.com/701xpiratz/
-# Waiting for your valueable suggestion to make it more devloped and easy to navigate>>
+# Waiting for your valueable suggestion to make it more devloped and easy to navigate !!!!!
 # gmail :4rifulanik@gmail.com
