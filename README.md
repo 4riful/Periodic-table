@@ -23,7 +23,7 @@ $python3 ptable.py
 input 6 to exit the program
 # for windows same process 
 # or download the exe file for use like an application.
-# exe link:
+# WINDOWS exe link  :https://github.com/4riful/Periodic-table/raw/master/ptable.exe
 # For Android phone, 
 Download termux app form playstore
 # after installing the app
