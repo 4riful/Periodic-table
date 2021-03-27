@@ -42,7 +42,7 @@ input 6 to exit the program
 
 # thanks all,have a nice day 
  # Ariful Anik,
- # PLSCR,
+ 
  # 
  
  # For contacting with me
