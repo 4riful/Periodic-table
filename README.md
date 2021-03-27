@@ -1,18 +1,19 @@
 # Periodic-table
 This is a educational project.
 
-Something went to cool with you.I have basically make it for student.it's smart periodic table .Here I have included all details according to iupac (2018).
-Here you will find all the details of an particular atom .You have to write here just the symbol of atom...Then you can find all .. it's really easy to use.
+Something went to cool with you.I have basically make it for student.Here I have included all details according to iupac (2018).
+You will find all the details of an particular atom with this program .Just you have to  enter the symbol of atom...Then it will thow the details of this atom back.. it's really easy to use.
 
 # Educational value 
-Now a days ,Many of us use Android phone . They can use it for educational purpose.I think it will save time.
+Now a days ,Many of us use Android phone . We can use it for educational purpose.I think it will save time.
 
 
 # installation process..
-# for Ubuntu and other  Linux distro
+# for Ubuntu and any other  Linux distro
 First of all 
 install python3!.
-After that goto terminal and command
+After that Open up your terminal and follow those command
+
 $ git clone https://github.com/4riful/Periodic-table.git
 after cloning that ,,,,
 $cd periodic-table
@@ -23,7 +24,8 @@ input 6 to exit the program
 # for windows same process 
 # or download the exe file for use like an application.
 # exe link:
-# for Android phone. download termux app form playstore
+# For Android phone, 
+Download termux app form playstore
 # after installing the app
 $apt update
 $apt upgrade
@@ -45,5 +47,5 @@ input 6 to exit the program
  
  # For contacting with me
  # Fb : https://www.facebook.com/701xpiratz/
-#
+# Waiting for your valueable suggestion to make it more devloped and easy to navigate>>
 # gmail :4rifulanik@gmail.com
