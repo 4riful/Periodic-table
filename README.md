@@ -1,7 +1,7 @@
 # Periodic-table
 This is a educational project.
 
-Something went to cool with you.I have basically make it for student.Here I have included all details according to iupac (2018).
+I have basically made it for student.Here I have included all details according to iupac (2018).
 You will find all the details of an particular atom with this program .Just you have to  enter the symbol of atom...Then it will thow the details of this atom back.. it's really easy to use.
 
 # Educational value 
